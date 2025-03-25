@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
